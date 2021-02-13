@@ -1,0 +1,2 @@
+# bodsbot
+BDO Boss bit
